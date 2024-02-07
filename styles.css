@@ -38,8 +38,7 @@ header {
     }
 
 .gallery-item img {
-      width: auto;
-      height: 300px;
+      width: 75%;
       border-radius: 8px;
       position: relative;
       right: 50%;
