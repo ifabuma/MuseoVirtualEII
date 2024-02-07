@@ -39,8 +39,10 @@ header {
 
 .gallery-item img {
       width: auto;
-      height: 30px;
+      height: 300px;
       border-radius: 8px;
+      position: relative;
+      right: 50%;
   }
 
 .text-section {
