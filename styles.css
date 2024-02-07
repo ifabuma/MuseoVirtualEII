@@ -41,8 +41,7 @@ header {
       width: 200px;
       border-radius: 8px;
       display: block;
-      margin: 0 auto;
-      bottom: 20px;
+      margin: auto auto;
   }
 
 .text-section {
