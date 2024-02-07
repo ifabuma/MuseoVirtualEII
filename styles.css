@@ -9,7 +9,7 @@ header {
       background-color: #003366;
       color: #ffffff;
       text-align: center;
-      padding: 20px;
+      padding: 30px;
       font-size: 24px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
@@ -39,7 +39,7 @@ header {
 
 .gallery-item img {
       width: 100%;
-      height: auto;
+      height: 30px;
       border-radius: 8px;
   }
 
