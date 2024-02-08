@@ -3,10 +3,10 @@ document.getElementById('EgipciaAR').addEventListener('click', function() {
 });
 
 document.getElementById('EgipciaPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Grua-Egipcia/';
+  window.location.href = 'https://drive.google.com/file/d/1IlXA1qhwBwAxtAgPRMlupCU9borXQtYn/view?usp=sharing';
 });
 
-document.getElementById('Griega').addEventListener('click', function() {
+document.getElementById('GriegaAR').addEventListener('click', function() {
   window.location.href = 'https://ifabuma.github.io/Grua-Griega/';
  });
 
