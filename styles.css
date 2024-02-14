@@ -24,14 +24,14 @@ header {
 
 .gallery-item {
   background-color: #72C8E5;
-  width: 75%; /* Cambiado de 49% a 75% */
+  width: 95%; 
   margin: 5px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 @media (min-width: 768px) {
-  /* Ajusta el ancho a 49% cuando la pantalla tiene al menos 768px de ancho */
+  
   .gallery-item {
     width: 49%;
   }
