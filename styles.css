@@ -31,12 +31,10 @@ header {
 }
 
 @media (min-width: 768px) {
-  
   .gallery-item {
     width: 49%;
   }
 }
-
 
 .gallery-item p {
       color: #003366;
@@ -46,7 +44,8 @@ header {
     }
 
 .gallery-item img {
-      width: 200px;
+      height: 100%;
+      width: auto;
       border-radius: 8px;
       display: block;
       margin: auto auto;
