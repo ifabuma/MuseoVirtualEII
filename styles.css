@@ -15,7 +15,7 @@ header {
     }
 
 .gallery {
-      background-color: #72C8E5;
+      background-color: #ffffff;
       display: flex;
       flex-wrap: wrap;
       justify-content: space-around;
@@ -23,12 +23,20 @@ header {
     }
 
 .gallery-item {
-      background-color: #0099CC;
-      width: 49%;
-      margin: 5px;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    }
+  background-color: #72C8E5;
+  width: 75%; /* Cambiado de 49% a 75% */
+  margin: 5px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+@media (min-width: 768px) {
+  /* Ajusta el ancho a 49% cuando la pantalla tiene al menos 768px de ancho */
+  .gallery-item {
+    width: 49%;
+  }
+}
+
 
 .gallery-item p {
       color: #003366;
