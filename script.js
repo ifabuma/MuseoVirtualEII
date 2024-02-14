@@ -1,3 +1,7 @@
+function openLink() {
+      window.location.href = 'https://forms.office.com/e/0wL3hMFtwA'; 
+    }
+
 document.getElementById('EgipciaAR').addEventListener('click', function() {
   window.location.href = 'https://ifabuma.github.io/Grua-Egipcia/';
 });
