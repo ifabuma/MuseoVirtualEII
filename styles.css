@@ -44,8 +44,7 @@ header {
     }
 
 .gallery-item img {
-      height: 100%;
-      width: auto;
+      height: 200px;
       border-radius: 8px;
       display: block;
       margin: auto auto;
