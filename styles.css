@@ -76,7 +76,7 @@ header {
 .popup-container {
       position: fixed;
       top: 50%;
-      left: 95%;
+      left: 95vw;
       transform: translate(-50%, -50%);
       width: 100px;
       height: 100px;
@@ -88,6 +88,7 @@ header {
       justify-content: center;
       cursor: pointer;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+      overflow: hidden;
     }
 
     .popup-content {
