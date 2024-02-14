@@ -96,8 +96,9 @@ header {
     }
 
 .popup-content img {
-      width: 75%; /* La imagen ocupa el 100% del contenedor */
-      height: auto; /* La altura se ajusta automáticamente para mantener la proporción */
-      display: block; /* Elimina el espacio adicional en la parte inferior de la imagen */
+      width: 75%; 
+      height: auto; 
+      display: block;
+      align-items: center;
     }
 
