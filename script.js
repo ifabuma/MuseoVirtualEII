@@ -66,11 +66,11 @@ document.getElementById('FresadoraPDF').addEventListener('click', function() {
   window.location.href = 'https://ifabuma.github.io/Fresadora-Universal/';
  });
 
-document.getElementById('RectificadoraPlanaAR').addEventListener('click', function() {
+document.getElementById('PlanaAR').addEventListener('click', function() {
   window.location.href = 'https://ifabuma.github.io/Rectificadora-Plana/';
  });
 
-document.getElementById('RectificadoraPlanaPDF').addEventListener('click', function() {
+document.getElementById('PlanaPDF').addEventListener('click', function() {
   window.location.href = 'https://ifabuma.github.io/Rectificadora-Plana/';
  });
 
