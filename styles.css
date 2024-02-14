@@ -81,12 +81,13 @@ header {
       width: 100px;
       height: 100px;
       border-radius: 50%;
-      background-color: #0099CC;
+      background-color: #003366;
       color: #fff;
       display: flex;
       align-items: center;
       justify-content: center;
       cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     }
 
     .popup-content {
