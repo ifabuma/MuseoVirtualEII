@@ -99,6 +99,6 @@ header {
       width: 75%; 
       height: auto; 
       display: block;
-      align-items: center;
+      margin: auto;
     }
 
