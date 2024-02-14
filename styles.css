@@ -76,7 +76,7 @@ header {
 .popup-container {
       position: fixed;
       top: 50%;
-      left: 95vw;
+      left: 92vw;
       transform: translate(-50%, -50%);
       width: 100px;
       height: 100px;
