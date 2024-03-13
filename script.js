@@ -1,5 +1,5 @@
 function openLink() {
-      window.location.href = 'https://forms.office.com/e/0wL3hMFtwA'; 
+      window.location.href = 'https://forms.office.com/e/Q0pc8M3Epy'; 
     }
 
 document.getElementById('EgipciaAR').addEventListener('click', function() {
