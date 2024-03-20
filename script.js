@@ -15,7 +15,7 @@ document.getElementById('GriegaAR').addEventListener('click', function() {
  });
 
 document.getElementById('GriegaPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Grua-Griega/';
+  window.location.href = '01.pdf';
 });
 
 document.getElementById('TornoAR').addEventListener('click', function() {
@@ -23,7 +23,7 @@ document.getElementById('TornoAR').addEventListener('click', function() {
  });
 
 document.getElementById('TornoPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Torno-de-Pedal-y-Pertiga/';
+  window.location.href = '07.pdf';
 });
 
 document.getElementById('MedievalAR').addEventListener('click', function() {
@@ -31,7 +31,7 @@ document.getElementById('MedievalAR').addEventListener('click', function() {
  });
 
 document.getElementById('MedievalPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Grua-Medieval/';
+  window.location.href = '02.pdf';
  });
 
 document.getElementById('ModernaAR').addEventListener('click', function() {
@@ -39,7 +39,7 @@ document.getElementById('ModernaAR').addEventListener('click', function() {
  });
 
 document.getElementById('ModernaPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Grua-Moderna/';
+  window.location.href = '03.pdf';
  });
 
 document.getElementById('PrensaAR').addEventListener('click', function() {
@@ -47,7 +47,7 @@ document.getElementById('PrensaAR').addEventListener('click', function() {
  });
 
 document.getElementById('PrensaPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Prensa-de-Husillo/';
+  window.location.href = '06.pdf';
  });
 
 document.getElementById('1847AR').addEventListener('click', function() {
@@ -55,7 +55,7 @@ document.getElementById('1847AR').addEventListener('click', function() {
  });
 
 document.getElementById('1847PDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Taladradora1847/';
+  window.location.href = '11.pdf';
  });
 
 document.getElementById('FresadoraAR').addEventListener('click', function() {
@@ -63,7 +63,7 @@ document.getElementById('FresadoraAR').addEventListener('click', function() {
  });
 
 document.getElementById('FresadoraPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Fresadora-Universal/';
+  window.location.href = '04.pdf';
  });
 
 document.getElementById('PlanaAR').addEventListener('click', function() {
@@ -71,7 +71,7 @@ document.getElementById('PlanaAR').addEventListener('click', function() {
  });
 
 document.getElementById('PlanaPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Rectificadora-Plana/';
+  window.location.href = '09.pdf';
  });
 
 document.getElementById('1860AR').addEventListener('click', function() {
@@ -79,7 +79,7 @@ document.getElementById('1860AR').addEventListener('click', function() {
  });
 
 document.getElementById('1860PDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Taladradora1860/';
+  window.location.href = '11.pdf';
  });
 
 document.getElementById('UniversalAR').addEventListener('click', function() {
@@ -87,7 +87,7 @@ document.getElementById('UniversalAR').addEventListener('click', function() {
  });
 
 document.getElementById('UniversalPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Rectificadora-Universal/';
+  window.location.href = '10.pdf';
  });
 
 document.getElementById('RodamientosAR').addEventListener('click', function() {
@@ -95,7 +95,7 @@ document.getElementById('RodamientosAR').addEventListener('click', function() {
  });
 
 document.getElementById('RodamientosPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Rectificadora-Rodamientos/';
+  window.location.href = '08.pdf';
  });
 
 document.getElementById('LimadoraAR').addEventListener('click', function() {
@@ -103,6 +103,6 @@ document.getElementById('LimadoraAR').addEventListener('click', function() {
  });
 
 document.getElementById('LimadoraPDF').addEventListener('click', function() {
-  window.location.href = 'https://ifabuma.github.io/Limadora/';
+  window.location.href = '05.pdf';
  });
 
