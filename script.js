@@ -7,7 +7,7 @@ document.getElementById('EgipciaAR').addEventListener('click', function() {
 });
 
 document.getElementById('EgipciaPDF').addEventListener('click', function() {
-  window.location.href = 'https://drive.google.com/file/d/1IlXA1qhwBwAxtAgPRMlupCU9borXQtYn/view?usp=sharing';
+  window.location.href = '01.pdf';
 });
 
 document.getElementById('GriegaAR').addEventListener('click', function() {
